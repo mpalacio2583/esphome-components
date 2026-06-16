@@ -67,6 +67,7 @@ At this moment there are list of supported device:
 - [Universal Xiaomi Motion](components/miot_motion/)
 - [Xiaomi Mi Smart Home Door/Window Sensor 2 (MCCGQ02HL)](components/miot_mccgq02hl/)
 - [Xiaomi Flood Sensor (SJWS01LM)](components/miot_sjws01lm/)
+- [Xiaomi Flood & Rain Sensor RS1 (RS1BB(MI))](components/miot_rs1bb/) 
 - [Xiaomi Mi Smart Home Occupancy Sensor 2 (RTCGQ02LM)](components/miot_rtcgq02lm/)
 - [Xiaomi ClearGrass Bluetooth Hygrothermograph (CGG1)](components/miot_cgg1/)
 - [Yeelight Remote Control Smart LED Ceiling Light (YLYK01YL)](components/miot_ylyk01yl/)
