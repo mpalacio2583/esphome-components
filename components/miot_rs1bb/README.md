@@ -1,5 +1,6 @@
 # Linptech RS1BB — Flood & Rain Sensor (MIOT platform)
 <img width="603" height="344" alt="image" src="https://github.com/user-attachments/assets/f857c136-f6a3-4d4e-b257-f9e0a1606b65" />
+
 source: https://www.linptech.org/immersing-and-rain-water-leak-detector/
 
 ESPHome component for the **Linptech RS1BB** water leak / rain sensor
